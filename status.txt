@@ -3,5 +3,6 @@ https://www.twitter.com
 https://www.facebook.com
 https://www.yahoo.co.jp
 https://www.baidu.com
+https://www.debug-anywhere.com
 api test
 hello, great job!
